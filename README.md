@@ -1,23 +1,27 @@
-# GL516ケースの利用について（日本語）
+# キーキャップ3Dデータの利用について（日本語）
 
-GL516ケースの3Dデータです。
+3u未満のコンベックスキーの3Dデータです。
 
-Fusion360で設計しています。
+各種プロファイルのキーキャップを実際に計測し、そのデータを元にFusion360で設計しています。
 
 利用は別途ライセンスに従って利用してください。
 
-公開データはSTEPファイルとFusion360で扱いやすいf3dデータを公開しています。
+MJF形式の3Dプリンタによる製造以外は適していません。
+
+公開データはSTEPファイルとSTLファイルを公開しています。
 
 使いやすいほうをお使いください。
 
-# GL516 Case Usage (English)
+# Use of keycap 3D data (English)
 
-3D data of GL516 case.
+This is 3D data of convex keys of less than 3u.
 
-I am designing it with Fusion360.
+Keycaps of various profiles are actually measured and designed by Fusion360 based on the data.
 
-You can use it according to the license.
+Please use it according to a separate license.
 
-The data I publish is STEP file and f3d data which is easy to handle in Fusion360.
+Not suitable except for manufacturing by 3D printer in MJF format.
 
-Please use whichever is easier for you.
+The public data is available as STEP files and STL files.
+
+Please use whichever is easier to use.
